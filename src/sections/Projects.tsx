@@ -15,7 +15,7 @@ const projectsData: Project[] = [
   {
     title: "Portfolio Website",
     description: "Developed a dynamic and visually appealing portfolio with HTML, CSS, and JavaScript, showcasing technical skills.",
-    image: "portfolio.jpg",
+    image: "image.png",
     tags: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
     sourceUrl: "https://github.com/ajeetpandit667",
     demoUrl: "#"
@@ -23,7 +23,7 @@ const projectsData: Project[] = [
   {
     title: "Netflix Data Analysis",
     description: "Performed comprehensive data analysis on Netflix using advanced Python libraries (Matplotlib, PyPlot, Pandas, NumPy) to extract actionable insights and visualize trends.",
-    image: "netflix.jpg",
+    image: "download.png",
     tags: ["Python", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"],
     sourceUrl: "https://github.com/ajeetpandit667/Netflix-Analysis",
     demoUrl: "https://github.com/ajeetpandit667/Netflix-Analysis/blob/main/Netflix%20Stock%20Analysis.ipynb"
@@ -31,7 +31,7 @@ const projectsData: Project[] = [
   {
     title: "Tic-Tac-Toe Game",
     description: "Developed an interactive Tic Tac Toe game using HTML, CSS, and JavaScript with logic to detect wins, draws, and alternate turns between players.",
-    image: "tictactoe.jpg",
+    image: "download.jpeg",
     tags: ["HTML", "CSS", "JavaScript"],
     sourceUrl: "https://github.com/ajeetpandit667/Tic-Tac-Game",
     demoUrl: "https://github.com/ajeetpandit667/Tic-Tac-Game"
@@ -39,7 +39,7 @@ const projectsData: Project[] = [
   {
     title: "CureNest",
     description: "Built a responsive medical consultation website using HTML, CSS, JS, MongoDB, Cloudinary, and Tailwind CSS, enabling users to book appointments and access health info.",
-    image: "curenest.jpg",
+    image: "Curenest.png",
     tags: ["MongoDB", "Express.js", "Tailwind CSS", "Cloudinary"],
     sourceUrl: "https://github.com/ajeetpandit667",
     demoUrl: "#"
